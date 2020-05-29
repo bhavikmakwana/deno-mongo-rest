@@ -1,0 +1,8 @@
+
+POST 
+http://localhost:5000
+{
+    "name":"Bhavik",
+    "salary":"1000",
+    "age":25
+}
